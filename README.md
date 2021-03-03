@@ -20,7 +20,7 @@ Like I mentioned above, the biggest lesson was planning and organizing. I took o
 Check out some of my other work using with Html and CSS!
 
 * [JWLIA](https://github.com/DashlinS/JWLIA)
-* [Yelp]()
+* [Yelp](https://github.com/DashlinS/yelp)
 * [BBC.com](https://github.com/DashlinS/BBCWebsite)
 * [Biography.com](https://github.com/DashlinS/Biography)
 * [NVIDIA](https://github.com/DashlinS/nvidia)
